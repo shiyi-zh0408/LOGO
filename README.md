@@ -8,6 +8,10 @@ This repository contains the LOGO dataset and PyTorch implementation for GOAT. (
 
 ## Dataset
 
+### TODO
+
+- [x] Release the dataset
+
 ### Lexicon
 
 We construct a fine-grained video dataset organized by temporal structure, which contains action and formation manual annotations. Herein, we design the labeling system with professional artistic swimming athletes to construct a lexicon for annotation, considering FINA rules and the actual scenario of the competitions. In the *Technical* event, the group size is eight people, the video length is $170±15s$, and the actions include *Upper*, *Lower*, *Float*, *None*, *Acrobatic*, *Cadence*, and five *Required Elements*. Each competition cycle needs to complete five *Required Elements*, at least two *Acrobatic* movements, and at least one *Cadence* action. In the *Free* events, there are 8 people, the video length is $240±15s$, and the actions include *Upper*, *Lower*, *Float*, *None*, *Acrobatic*, *Cadence*, and *Free* elements. When performing *Required*, *Upper*, *Lower*, and *Float*, the athletes form neat polygons.
