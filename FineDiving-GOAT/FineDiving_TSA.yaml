@@ -1,0 +1,34 @@
+# model
+pretrained_i3d_weight : 'models/model_rgb.pth'
+stage1_model_path : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/Group-AQA-Distributed/ckpts/STAGE1_256frames_rho0.3257707338254451_(224, 224)_(25, 25)_loss82.48323059082031.pth'
+
+# dataset
+data_root : '/mnt/petrelfs/daiwenxun/AS-AQA/Video_result'
+i3d_feature_root : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/AS-AQA/video_feature_dict.pkl'
+swin_feature_path : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/video-swin-features/swin_features_dict.pkl'
+bpbb_feature_path : ''
+feamap_root : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/AS-AQA/video_feamap_dict.pkl'
+cnn_feature_path : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/Inceptionv3/inception_feature_dict.pkl'
+boxes_path : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/DINO/ob_result_new.pkl'
+label_path : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/AS-AQA/anno_dict.pkl'
+train_split : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/AS-AQA/train_split3.pkl'
+test_split : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/AS-AQA/test_split3.pkl'
+bp_feature_path : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/AS-AQA/bp_features'
+formation_feature_path : '/mnt/petrelfs/daiwenxun/AS-AQA/Exp/AS-AQA/formation_features_middle_1.pkl'
+
+# optimizer
+optimizer: 'Adam'
+
+# others
+voter_number : 10
+print_freq : 40
+fix_size : 5
+step_num : 3
+prob_tas_threshold : 0.25
+random_choosing : False
+action_number_choosing: True
+
+
+
+
+
