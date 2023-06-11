@@ -11,6 +11,8 @@ This repository contains the LOGO dataset and PyTorch implementation for GOAT. (
 ### TODO
 
 - [x] Release the dataset
+- [ ] The code of GOAT
+- [ ] Pretrained features for LOGO
 
 ### Lexicon
 
