@@ -141,6 +141,6 @@ python main.py --lr=3e-07 --warmup=0 --use_i3d_bb=0 --use_swin_bb=1 --bs_train=1
 
 ## 📧 **Contact**
 
-E-mail:  [shiyi-zh19@mails.tsinghua.edu.cn](mailto:shiyi-zh19@mails.tsinghua.edu.cn)
+E-mail:  [sy-zhang23@mails.tsinghua.edu.cn](mailto:sy-zhang23@mails.tsinghua.edu.cn)
 
 WeChat: ZSYi-408
