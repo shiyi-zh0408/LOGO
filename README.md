@@ -1,7 +1,7 @@
 # <center>LOGO: A Long-Form Video Dataset for Group Action Quality Assessment (CVPR 2023)</center>
 ### <center>*[Shiyi Zhang](https://shiyi-zh0408.github.io/), [Wenxun Dai](https://github.com/Dai-Wenxun), Sujia Wang, Xiangwei Shen, [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Yansong Tang†](https://andytang15.github.io/)*</center>
 
-#### <center>[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf) [[Dataset]](https://pan.baidu.com/s/1GNi_ZcbSq6oi2SEX_iuFwA?pwd=v329) (extract number: v329)</center>
+#### <center>[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf) [[Dataset]](https://pan.baidu.com/s/1GNi_ZcbSq6oi2SEX_iuFwA?pwd=v329) (extract number: v329)</center>
 
 This repository contains the LOGO dataset and PyTorch implementation for the paper "LOGO: A Long-Form Video Dataset for Group Action Quality Assessment" (CVPR 2023)
 
