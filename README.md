@@ -35,7 +35,7 @@ This repository contains the LOGO dataset and PyTorch implementation for the pap
 
 Given an RGB artistic swimming video, the annotator utilizes our defined lexicon to label each frame with its action and formation. We accomplish the 25fps frame-wise **action annotation** stage utilizing the [COIN Annotation Toolbox](https://github.com/coin-dataset/annotation-tool) and the 1fps frame-wise **formation labels** using [Labelme](https://github.com/wkentaro/labelme). Specifically, we set strict rules defining the boundaries between artistic swimming sequences and the formation marking position and employ eight workers with prior knowledge in the artistic swimming domain to label the dataset frame by frame following the rules. The annotation results of one worker are checked and adjusted by another, which ensures annotation results are double-checked. 
 
-The annotation information is saved in [[Baidu Drive]](https://pan.baidu.com/s/1UwlGzCeq_UjY0GbOnaHXxw?pwd=ojgf) (extract number: ojgf)
+The annotation information is saved in [[Google Drive]](https://drive.google.com/drive/folders/1i4lG1_iwP0lHMCvyYlqS8h7YRQCSRFyA?usp=drive_link) or [[Baidu Drive]](https://pan.baidu.com/s/1UwlGzCeq_UjY0GbOnaHXxw?pwd=ojgf) (extract number: ojgf)
 
 The annotation information contained in `anno dict.pkl` for each sample is:
 
