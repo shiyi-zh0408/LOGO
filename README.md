@@ -55,12 +55,12 @@ The LOGO dataset consists of 200 video samples from 26 events with 204.2s averag
 
 ### 💾 Download
 
-- Video_Frames:  [[Baidu Drive]](https://pan.baidu.com/s/1GNi_ZcbSq6oi2SEX_iuFwA?pwd=v329) (extract number: v329) 
-- Annotations and Split: [[Baidu Drive]](https://pan.baidu.com/s/1UwlGzCeq_UjY0GbOnaHXxw?pwd=ojgf) (extract number: ojgf)
+- Video_Frames:  [[Google Drive]](https://drive.google.com/file/d/1-MpOQSo72TZhoTzr8bqviDezi-ge7o6V/view?usp=drive_link) or [[Baidu Drive]](https://pan.baidu.com/s/1GNi_ZcbSq6oi2SEX_iuFwA?pwd=v329) (extract number: v329) 
+- Annotations and Split: [[Google Drive]](https://drive.google.com/drive/folders/1i4lG1_iwP0lHMCvyYlqS8h7YRQCSRFyA?usp=drive_link) or [[Baidu Drive]](https://pan.baidu.com/s/1UwlGzCeq_UjY0GbOnaHXxw?pwd=ojgf) (extract number: ojgf)
 
 ### :notebook: Data Preparation
 
-- The prepared dataset ([[Baidu Drive]](https://pan.baidu.com/s/1GNi_ZcbSq6oi2SEX_iuFwA?pwd=v329) (extract number: v329) ) and annotations ([[Baidu Drive]](https://pan.baidu.com/s/1UwlGzCeq_UjY0GbOnaHXxw?pwd=ojgf) (extract number: ojgf)) are already provided in this repo. 
+- The prepared dataset ([[Google Drive]](https://drive.google.com/file/d/1-MpOQSo72TZhoTzr8bqviDezi-ge7o6V/view?usp=drive_link) or [[Baidu Drive]](https://pan.baidu.com/s/1GNi_ZcbSq6oi2SEX_iuFwA?pwd=v329) (extract number: v329) ) and annotations ([[Google Drive]](https://drive.google.com/drive/folders/1i4lG1_iwP0lHMCvyYlqS8h7YRQCSRFyA?usp=drive_link) or [[Baidu Drive]](https://pan.baidu.com/s/1UwlGzCeq_UjY0GbOnaHXxw?pwd=ojgf) (extract number: ojgf)) are already provided in this repo. 
 
 - The data structure should be:
 
