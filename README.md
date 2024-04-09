@@ -95,7 +95,7 @@ $DATASET_ROOT
 
 ### ⚙️ Pretrain Model
 
-The Kinetics pretrained I3D downloaded from the reposity [kinetics_i3d_pytorch](https://github.com/hassony2/kinetics_i3d_pytorch/blob/master/model/model_rgb.pth)
+The Kinetics pretrained I3D downloaded from the repository [kinetics_i3d_pytorch](https://github.com/hassony2/kinetics_i3d_pytorch/blob/master/model/model_rgb.pth)
 
 ```
 model_rgb.pth
